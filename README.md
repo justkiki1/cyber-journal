@@ -15,3 +15,5 @@ Splunk Enterprise, VirtualBox, Wireshark
 ## Write-ups
 - [Week 1: Setting up Splunk and my first searches](week-01-splunk-setup.md)
 - [Week 2: Investigating a web attack with Splunk (BOTS v1)](week-02-botsv1-investigation.md)
+- [Week 3: What I learned from the Splunk investigation courses](week-03-splunk-investigation-courses.md)
+- 
